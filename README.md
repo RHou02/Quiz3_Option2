@@ -25,6 +25,8 @@ This repository includes the following components:
 Demo Video Link:  
 https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3274e490-82d4-4057-b307-b43101531832
 
+The demo video is slightly longer than required because it includes explanations aligned with the presentation and the system runtime.
+
 The video with presentation demonstrates:
 - System overview  
 - Input prompts  
